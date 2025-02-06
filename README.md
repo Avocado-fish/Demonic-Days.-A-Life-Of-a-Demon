@@ -8,7 +8,7 @@
     <body style="margin: 100px;">
         <title>Aoi's blog </title>
     <h1 style="text-size-adjust:100px;">Welcome to my web page [still testing][Do not conteplate on my spelling and others(I'll show up at your house) p.s not really</h1>
-    <h1>
+    
     Thursday
 
         
@@ -22,13 +22,12 @@
         Then ate his soul.
         It wasn't too good, I promise you that.
         Hope you have a nice day!!!
-    </h1>
+    
         (some of the parts are fiction. Do not take them for real)
-        <div>
-            come to my YT channel
-            <a href="https://www.youtube.com/@druid5823"> click here to see</a> 
-        </div>
+        
+            come to my YT channel go search:Polo Avocado
+        
         Wanna meet? My fellow humans?
         If you are brave, try finding me on Roblox, Minecraft and other games! Just type:"Red like a demon." And I'll be sure to answer you!
-        </body>
+    
     </html>
