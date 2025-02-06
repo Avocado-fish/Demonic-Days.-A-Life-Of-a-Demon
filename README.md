@@ -7,14 +7,14 @@
     <h1 style="color: red;"> My Demonic Days </head>
     <body style="margin: 100px;">
         <title>Aoi's blog </title>
-    <h1 style="text-size-adjust:100px;">Welcome to my web page [still testing][Do not conteplate on my spelling and others(I'll show up at your house) p.s not really</h1>
+    <h1 style="text-size-adjust:100px;">Welcome to my web page [still testing][Do not contemplate on my spelling and others(I'll show up at your house) p.s not really</h1>
     
     Thursday
 
         
-        Winter Holidays, a time too rest and enjoy pease.
+        Winter Holidays, are a time to rest and enjoy peace.
         You know, even if I were a demon girl. I still need to take a bit of a rest sometimes.
-        I don't mean eating humens soul. 
+        I don't mean eating human souls. 
         I just love to take a bath and relax sometimes.
         I saw a random man trying to force me to enter a pub.
         Even though I'm pretty sure what he wants.
@@ -25,9 +25,10 @@
     
         (some of the parts are fiction. Do not take them for real)
         
-            come to my YT channel go search:Polo Avocado
+            come to my YT channel go search: Polo Avocado
         
         Wanna meet? My fellow humans?
-        If you are brave, try finding me on Roblox, Minecraft and other games! Just type:"Red like a demon." And I'll be sure to answer you!
+        If you are brave, try finding me on Roblox, Minecraft, and other games! 
+        Just type: "Red like a demon." And I'll be sure to answer you!
     
-    </html>
+    
