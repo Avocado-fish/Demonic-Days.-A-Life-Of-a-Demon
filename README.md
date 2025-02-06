@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang=en>
-    <style> div { background-color: lightblue;  font-size:50px;width:1000px;height:100px;padding:50px;margin-left:10px;border: 2px solid black}
-    table {border: 2px solid black;border-collapse: collapse;}
-         th,td {border: 3px solid black;padding:15px;}
-    </style>
-    <h1 style="color: red;"> My Demonic Days </head>
-    <body style="margin: 100px;">
-        <title>Aoi's blog </title>
-    <h1 style="text-size-adjust:100px;">Welcome to my web page [still testing][Do not contemplate on my spelling and others(I'll show up at your house) p.s not really</h1>
+Welcome to my web page [still testing][Do not contemplate on my spelling and others(I'll show up at your house) p.s not really</h1>
     
     Thursday
 
